@@ -1,4 +1,5 @@
-require 'rspec'
+# frozen_string_literal: true
+
 require_relative '../src/test.rb'
 
 describe 'Test' do
